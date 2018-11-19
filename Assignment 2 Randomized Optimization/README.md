@@ -1,9 +1,10 @@
-Prerequisites for running code:
+# Prerequisites for running code:
 These instructions apply for Windows 10 x64. For testing on your own machine, you need to install the following libraries.
 
-ABAGAIL: https://github.com/pushkar/ABAGAIL
-Apache Ant: https://ant.apache.org/bindownload.cgi
-Java Development Kit: https://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html
+# ABAGAIL: https://github.com/pushkar/ABAGAIL
+# Apache Ant: https://ant.apache.org/bindownload.cgi
+# Java Development Kit: https://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html
+
 Add Java and Ant to your windows environment and path variables. A helpful guide is found at: https://www.mkyong.com/ant/how-to-install-apache-ant-on-windows/
 Once all of the prerequisites are installed, all of the methods are run from the Windows Command Prompt
 
