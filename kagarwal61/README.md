@@ -1,4 +1,10 @@
-ASSIGNMENT 1: SUPERVISED LEARNING
+# CS 7641 Assignment 1: Supervised Learning Classification
+
+This project seeks to understand the computatitonal and predictive qualities of five classification algorithms (Neural Network, SVM, kNN, Decision Tree, and Boosted Trees). Each algorithm will be run for two binary classification datasets so that we can compare and contrast them for two different problems.
+
+Dataset 1: Phishing Websites - available at https://www.openml.org/d/4534
+
+Dataset 2: Gene Expression - 
 
 All the code is in following Jupyter Notebooks:
 1. Phising_dataset.ipynb: Run all the cells sequentially to recreate my analysis on Phishing datset
