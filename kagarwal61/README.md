@@ -19,14 +19,15 @@ Phising_dataset
 2. Python 3.5
 3. Any web browser to run Jupyter notebook
 4. Python Libraries needed:
-	1.scikitlearn
-	2.numpy
-	3.Pandas
-	4.seaborn
-	5.matplotlib
+	* scikitlearn
+	* numpy
+	* Pandas
+	* seaborn
+	* matplotlib
 
 Note:
-1.For running Jupyter notebooks dataset must be in the same folder as Jupyter Notebook
+
+1. For running Jupyter notebooks dataset must be in the same folder as Jupyter Notebook
 
 2. Some data processing for Gene_expression_Dataset data has been done in excel. Raw data from Kaggle had different dimension from the processed data given here.
 For reshaping multiple rows for each GeneID has been converted into columns/features. 
