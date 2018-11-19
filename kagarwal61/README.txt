@@ -1,3 +1,5 @@
+ASSIGNMENT 1: SUPERVISED LEARNING
+
 All the code is in following Jupyter Notebooks:
 1. Phising_dataset.ipynb: Run all the cells sequentially to recreate my analysis on Phishing datset
 2. Gene_expression.ipynb: Run all the cells sequentially to recreate my analysis on Gene Expression datset
@@ -6,7 +8,7 @@ Data Files:
 Gene_Expression_Dataset: Preprocessed file, read below
 Phising_dataset
 
-Requirements:
+# Requirements:
 1. Jupyer Notebook
 2. Python 3.5
 3. Any web browser to run Jupyter notebook
