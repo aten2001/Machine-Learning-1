@@ -4,7 +4,7 @@ This project seeks to understand the computatitonal and predictive qualities of 
 
 Dataset 1: Phishing Websites - available at https://www.openml.org/d/4534
 
-Dataset 2: Gene Expression - 
+Dataset 2: Gene Expression - available at https://www.kaggle.com/c/gene-expression-prediction
 
 All the code is in following Jupyter Notebooks:
 1. Phising_dataset.ipynb: Run all the cells sequentially to recreate my analysis on Phishing datset
